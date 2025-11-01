@@ -1,0 +1,5 @@
+*   ADD TITLE, DIRECTOR AND URL TO BUILD YOUR WHAT TO WATCH LIST
+*   ALL FILES ARE CONNECTED AND CODE IS READABLE
+*   ONE PROBLEM WAS COULDN'T SOLVED BECAUSE:
+  localStorage takes only data, images are not equal to each other. Images return original size when turn off/on the server.
+*   THIS PROJECT GIVEN BY VAROL MAKSUTOĞLU FROM CODERSPACE FRONT-END SCHOOL. THANK YOU FOR EVERYTHING...
